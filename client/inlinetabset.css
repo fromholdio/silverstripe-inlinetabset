@@ -1,0 +1,11 @@
+.inlinetabset .ui-tabs-nav {
+    border-bottom: 1px solid #c1cad9 !important;
+    margin-top: 0 !important;
+    display: flex !important;
+}
+.inlinetabset .grid-field {
+    margin-top: calc(-1.5385rem / 2) !important;
+}
+.inlinetabset .grid-field .toolbar--content {
+    margin-top: 0 !important;
+}
